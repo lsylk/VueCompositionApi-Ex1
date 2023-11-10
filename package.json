@@ -14,7 +14,7 @@
   },
   "dependencies": {
     "@vue/composition-api": "0.3.2",
-    "axios": "0.18.0",
+    "axios": "1.6.0",
     "node-sass": "^4.9.0",
     "sass-loader": "^7.0.1",
     "vue": "^2.5.2",
